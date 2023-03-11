@@ -1,0 +1,226 @@
+[
+  {
+    "bodyPart": "upper legs",
+    "equipment": "assisted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0016.gif",
+    "id": "0016",
+    "name": "assisted prone hamstring",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0044.gif",
+    "id": "0044",
+    "name": "barbell good morning",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0116.gif",
+    "id": "0116",
+    "name": "barbell straight leg deadlift",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3235.gif",
+    "id": "3235",
+    "name": "cable assisted inverse leg curl",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0339.gif",
+    "id": "0339",
+    "name": "dumbbell lying femoral",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1560.gif",
+    "id": "1560",
+    "name": "exercise ball seated hamstring stretch",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3193.gif",
+    "id": "3193",
+    "name": "glute-ham raise",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1511.gif",
+    "id": "1511",
+    "name": "hamstring stretch",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0496.gif",
+    "id": "0496",
+    "name": "inverse leg curl (bench support)",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2400.gif",
+    "id": "2400",
+    "name": "inverse leg curl (on pull-up cable machine)",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "kettlebell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0535.gif",
+    "id": "0535",
+    "name": "kettlebell hang clean",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0555.gif",
+    "id": "0555",
+    "name": "kick out sit",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1576.gif",
+    "id": "1576",
+    "name": "leg up hamstring stretch",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0582.gif",
+    "id": "0582",
+    "name": "lever kneeling leg curl ",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0586.gif",
+    "id": "0586",
+    "name": "lever lying leg curl",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3195.gif",
+    "id": "3195",
+    "name": "lever lying two-one leg curl",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0599.gif",
+    "id": "0599",
+    "name": "lever seated leg curl",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0648.gif",
+    "id": "0648",
+    "name": "power clean",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "rope",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1582.gif",
+    "id": "1582",
+    "name": "reclining big toe pose with rope",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1585.gif",
+    "id": "1585",
+    "name": "runners stretch",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1587.gif",
+    "id": "1587",
+    "name": "seated wide angle pose sequence",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0697.gif",
+    "id": "0697",
+    "name": "self assisted inverse leg curl",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1766.gif",
+    "id": "1766",
+    "name": "self assisted inverse leg curl",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0696.gif",
+    "id": "0696",
+    "name": "self assisted inverse leg curl (on floor)",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0730.gif",
+    "id": "0730",
+    "name": "single leg platform slide",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "rope",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1599.gif",
+    "id": "1599",
+    "name": "standing hamstring and calf stretch with strap",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0795.gif",
+    "id": "0795",
+    "name": "standing single leg curl",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1604.gif",
+    "id": "1604",
+    "name": "world greatest stretch",
+    "target": "hamstrings"
+  }
+]

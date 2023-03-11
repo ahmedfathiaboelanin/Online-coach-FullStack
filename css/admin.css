@@ -1,0 +1,172 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #EFEFEF;
+}
+/* start sec*/
+section{
+    width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+/* end sec */
+/* start side */
+.side{
+    background-color: #b31313;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+    padding-right: 0;
+    transition: all .5s;
+    overflow: hidden;
+}
+.wide{
+    width: 80px;
+}
+.side a,.side button{
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+    align-items: center;
+    width: 100% !important;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.xsm-side a,.xsm-side button{
+    gap: 50px;
+    font-size: 20px;
+    align-items: center;
+}
+.xsm-side{
+    align-items: center;
+    padding-top: 50px;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: -100%;
+    z-index: 100;
+}
+.show{
+    left: 0;
+}
+.fa-xmark{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+.side a:hover,.side button:hover{
+    background-color: rgb(0, 0, 0);
+}
+.side a i,.side button i{
+    font-size: 25px;
+}
+.side form{
+    width: 100%;
+    justify-content: flex-start;
+    gap: 30px;
+    align-items: center;
+}
+.side button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    width: 100% !important;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+}
+/* end side */
+/* start content */
+.content{
+    overflow-x: auto;
+    background-color:transparent;
+    height: 100vh;
+    overflow-y: auto;
+    position: relative;
+    padding: 80px 0px 20px !important;
+}
+.content .form{
+    width: 250px;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+.content .form input{
+    width: 250px;
+    height: 35px;
+    outline: none;
+    padding-left: 10px;
+}
+.content .form button{
+    padding: 0px 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 0px;
+    height: 35px;
+}
+.content .fa-bars{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+}
+.content .row{
+    width: 100%;
+}
+.charts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100% !important;
+}
+.charts .stats{
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-around;
+    padding:20px 10px 15px;
+    background-color: #1e272e;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex-wrap: wrap;
+    transition: all ease-in-out 1s;
+}
+.stats p{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+}
+.stats a{
+    width: 80% !important;
+    border: 1px solid transparent;
+}
+.stats a:hover{
+    background-color: transparent !important;
+    color: #C12222 !important;
+    border: 1px solid white;
+}
+.stats i{
+    color: #ffffff;
+    font-size: 40px;
+}
+/* end content */
+
+

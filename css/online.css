@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.sec2 h3{
+    min-width: 300px;
+}
+.sec2 .pricing{
+    gap: 30px;
+}
+.pricing .icon{
+    font-size: 30px !important;
+}
+.about{
+    
+}

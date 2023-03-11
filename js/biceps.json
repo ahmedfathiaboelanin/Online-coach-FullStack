@@ -1,0 +1,1210 @@
+[
+  {
+    "bodyPart": "upper arms",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0968.gif",
+    "id": "0968",
+    "name": "band alternating biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0976.gif",
+    "id": "0976",
+    "name": "band concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0986.gif",
+    "id": "0986",
+    "name": "band one arm overhead biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0023.gif",
+    "id": "0023",
+    "name": "barbell alternate biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2407.gif",
+    "id": "2407",
+    "name": "barbell biceps curl (with arm blaster)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0031.gif",
+    "id": "0031",
+    "name": "barbell curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0038.gif",
+    "id": "0038",
+    "name": "barbell drag curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0059.gif",
+    "id": "0059",
+    "name": "barbell lying preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0070.gif",
+    "id": "0070",
+    "name": "barbell preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0072.gif",
+    "id": "0072",
+    "name": "barbell prone incline curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0080.gif",
+    "id": "0080",
+    "name": "barbell reverse curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0081.gif",
+    "id": "0081",
+    "name": "barbell reverse preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0089.gif",
+    "id": "0089",
+    "name": "barbell seated close-grip concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0106.gif",
+    "id": "0106",
+    "name": "barbell standing close grip curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2414.gif",
+    "id": "2414",
+    "name": "barbell standing concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0110.gif",
+    "id": "0110",
+    "name": "barbell standing reverse grip curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1629.gif",
+    "id": "1629",
+    "name": "barbell standing wide grip biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0113.gif",
+    "id": "0113",
+    "name": "barbell standing wide-grip curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1770.gif",
+    "id": "1770",
+    "name": "biceps leg concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0139.gif",
+    "id": "0139",
+    "name": "biceps narrow pull-ups",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0140.gif",
+    "id": "0140",
+    "name": "biceps pull-up",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1769.gif",
+    "id": "1769",
+    "name": "bodyweight side lying biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1630.gif",
+    "id": "1630",
+    "name": "cable close grip curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1631.gif",
+    "id": "1631",
+    "name": "cable concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0868.gif",
+    "id": "0868",
+    "name": "cable curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1632.gif",
+    "id": "1632",
+    "name": "cable drag curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0165.gif",
+    "id": "0165",
+    "name": "cable hammer curl (with rope)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1634.gif",
+    "id": "1634",
+    "name": "cable lying bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0182.gif",
+    "id": "0182",
+    "name": "cable lying close-grip curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0190.gif",
+    "id": "0190",
+    "name": "cable one arm curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1633.gif",
+    "id": "1633",
+    "name": "cable one arm preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1635.gif",
+    "id": "1635",
+    "name": "cable one arm reverse preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1636.gif",
+    "id": "1636",
+    "name": "cable overhead curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1637.gif",
+    "id": "1637",
+    "name": "cable overhead curl on exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0195.gif",
+    "id": "0195",
+    "name": "cable preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1638.gif",
+    "id": "1638",
+    "name": "cable pulldown bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0206.gif",
+    "id": "0206",
+    "name": "cable reverse curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1413.gif",
+    "id": "1413",
+    "name": "cable reverse one arm curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0209.gif",
+    "id": "0209",
+    "name": "cable reverse preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1639.gif",
+    "id": "1639",
+    "name": "cable rope hammer preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1640.gif",
+    "id": "1640",
+    "name": "cable rope one arm hammer preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1641.gif",
+    "id": "1641",
+    "name": "cable seated curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1642.gif",
+    "id": "1642",
+    "name": "cable seated one arm concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1643.gif",
+    "id": "1643",
+    "name": "cable seated overhead curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1644.gif",
+    "id": "1644",
+    "name": "cable squatting curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0229.gif",
+    "id": "0229",
+    "name": "cable standing inner curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0232.gif",
+    "id": "0232",
+    "name": "cable standing pulldown (with rope)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1645.gif",
+    "id": "1645",
+    "name": "cable two arm curl on incline bench",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0285.gif",
+    "id": "0285",
+    "name": "dumbbell alternate biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2403.gif",
+    "id": "2403",
+    "name": "dumbbell alternate biceps curl (with arm blaster)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1646.gif",
+    "id": "1646",
+    "name": "dumbbell alternate hammer preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1647.gif",
+    "id": "1647",
+    "name": "dumbbell alternate preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1648.gif",
+    "id": "1648",
+    "name": "dumbbell alternate seated hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1649.gif",
+    "id": "1649",
+    "name": "dumbbell alternating bicep curl with leg raised on exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1650.gif",
+    "id": "1650",
+    "name": "dumbbell alternating seated bicep curl on exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1651.gif",
+    "id": "1651",
+    "name": "dumbbell bicep curl lunge with bowling motion",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1652.gif",
+    "id": "1652",
+    "name": "dumbbell bicep curl on exercise ball with leg raised",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1653.gif",
+    "id": "1653",
+    "name": "dumbbell bicep curl with stork stance",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0294.gif",
+    "id": "0294",
+    "name": "dumbbell biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2401.gif",
+    "id": "2401",
+    "name": "dumbbell biceps curl (with arm blaster)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1654.gif",
+    "id": "1654",
+    "name": "dumbbell biceps curl reverse",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1655.gif",
+    "id": "1655",
+    "name": "dumbbell biceps curl squat",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1656.gif",
+    "id": "1656",
+    "name": "dumbbell biceps curl v sit on bosu ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0297.gif",
+    "id": "0297",
+    "name": "dumbbell concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0298.gif",
+    "id": "0298",
+    "name": "dumbbell cross body hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1657.gif",
+    "id": "1657",
+    "name": "dumbbell cross body hammer curl v. 2",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0313.gif",
+    "id": "0313",
+    "name": "dumbbell hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1659.gif",
+    "id": "1659",
+    "name": "dumbbell hammer curl on exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0312.gif",
+    "id": "0312",
+    "name": "dumbbell hammer curl v. 2",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2402.gif",
+    "id": "2402",
+    "name": "dumbbell hammer curls (with arm blaster)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1664.gif",
+    "id": "1664",
+    "name": "dumbbell high curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0315.gif",
+    "id": "0315",
+    "name": "dumbbell incline biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0318.gif",
+    "id": "0318",
+    "name": "dumbbell incline curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0317.gif",
+    "id": "0317",
+    "name": "dumbbell incline curl v. 2",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0320.gif",
+    "id": "0320",
+    "name": "dumbbell incline hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0322.gif",
+    "id": "0322",
+    "name": "dumbbell incline inner biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1660.gif",
+    "id": "1660",
+    "name": "dumbbell kneeling bicep curl exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1658.gif",
+    "id": "1658",
+    "name": "dumbbell lunge with bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1661.gif",
+    "id": "1661",
+    "name": "dumbbell lying supine biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0350.gif",
+    "id": "0350",
+    "name": "dumbbell lying supine curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1662.gif",
+    "id": "1662",
+    "name": "dumbbell lying wide curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0353.gif",
+    "id": "0353",
+    "name": "dumbbell one arm concetration curl (on stability ball)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1663.gif",
+    "id": "1663",
+    "name": "dumbbell one arm hammer preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1665.gif",
+    "id": "1665",
+    "name": "dumbbell one arm prone curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1666.gif",
+    "id": "1666",
+    "name": "dumbbell one arm prone hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1414.gif",
+    "id": "1414",
+    "name": "dumbbell one arm reverse preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1667.gif",
+    "id": "1667",
+    "name": "dumbbell one arm reverse spider curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1668.gif",
+    "id": "1668",
+    "name": "dumbbell one arm seated bicep curl on exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1669.gif",
+    "id": "1669",
+    "name": "dumbbell one arm seated hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1670.gif",
+    "id": "1670",
+    "name": "dumbbell one arm standing curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1671.gif",
+    "id": "1671",
+    "name": "dumbbell one arm standing hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1672.gif",
+    "id": "1672",
+    "name": "dumbbell one arm zottman preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0365.gif",
+    "id": "0365",
+    "name": "dumbbell over bench neutral wrist curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0366.gif",
+    "id": "0366",
+    "name": "dumbbell over bench one arm  neutral wrist curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0370.gif",
+    "id": "0370",
+    "name": "dumbbell peacher hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0372.gif",
+    "id": "0372",
+    "name": "dumbbell preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1673.gif",
+    "id": "1673",
+    "name": "dumbbell preacher curl over exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0374.gif",
+    "id": "0374",
+    "name": "dumbbell prone incline curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1674.gif",
+    "id": "1674",
+    "name": "dumbbell prone incline hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0382.gif",
+    "id": "0382",
+    "name": "dumbbell revers grip biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0384.gif",
+    "id": "0384",
+    "name": "dumbbell reverse preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1675.gif",
+    "id": "1675",
+    "name": "dumbbell reverse spider curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1676.gif",
+    "id": "1676",
+    "name": "dumbbell seated alternate hammer curl on exercise ball",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1677.gif",
+    "id": "1677",
+    "name": "dumbbell seated bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0390.gif",
+    "id": "0390",
+    "name": "dumbbell seated biceps curl (on stability ball)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3547.gif",
+    "id": "3547",
+    "name": "dumbbell seated biceps curl to shoulder press",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0391.gif",
+    "id": "0391",
+    "name": "dumbbell seated curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1678.gif",
+    "id": "1678",
+    "name": "dumbbell seated hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0393.gif",
+    "id": "0393",
+    "name": "dumbbell seated inner biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0397.gif",
+    "id": "0397",
+    "name": "dumbbell seated neutral wrist curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1679.gif",
+    "id": "1679",
+    "name": "dumbbell seated one arm bicep curl on exercise ball with leg raised",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0402.gif",
+    "id": "0402",
+    "name": "dumbbell seated preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0403.gif",
+    "id": "0403",
+    "name": "dumbbell seated revers grip concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3560.gif",
+    "id": "3560",
+    "name": "dumbbell standing alternate hammer curl and press",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0416.gif",
+    "id": "0416",
+    "name": "dumbbell standing biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0418.gif",
+    "id": "0418",
+    "name": "dumbbell standing concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2321.gif",
+    "id": "2321",
+    "name": "dumbbell standing inner biceps curl v. 2",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0421.gif",
+    "id": "0421",
+    "name": "dumbbell standing one arm concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0422.gif",
+    "id": "0422",
+    "name": "dumbbell standing one arm curl (over incline bench)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1680.gif",
+    "id": "1680",
+    "name": "dumbbell standing one arm curl over incline bench",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0425.gif",
+    "id": "0425",
+    "name": "dumbbell standing one arm reverse curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0428.gif",
+    "id": "0428",
+    "name": "dumbbell standing preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0429.gif",
+    "id": "0429",
+    "name": "dumbbell standing reverse curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2293.gif",
+    "id": "2293",
+    "name": "dumbbell standing zottman preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1684.gif",
+    "id": "1684",
+    "name": "dumbbell step up single leg balance with bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/5201.gif",
+    "id": "5201",
+    "name": "dumbbell waiter biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0439.gif",
+    "id": "0439",
+    "name": "dumbbell zottman curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2294.gif",
+    "id": "2294",
+    "name": "dumbbell zottman preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1682.gif",
+    "id": "1682",
+    "name": "ez bar seated close grip concentration curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1627.gif",
+    "id": "1627",
+    "name": "ez barbell close grip preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0446.gif",
+    "id": "0446",
+    "name": "ez barbell close-grip curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0447.gif",
+    "id": "0447",
+    "name": "ez barbell curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0451.gif",
+    "id": "0451",
+    "name": "ez barbell reverse grip curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0452.gif",
+    "id": "0452",
+    "name": "ez barbell reverse grip preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1458.gif",
+    "id": "1458",
+    "name": "ez barbell seated curls",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0454.gif",
+    "id": "0454",
+    "name": "ez barbell spider curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1628.gif",
+    "id": "1628",
+    "name": "ez barbell spider curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2404.gif",
+    "id": "2404",
+    "name": "ez-bar biceps curl (with arm blaster)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2741.gif",
+    "id": "2741",
+    "name": "ez-barbell standing wide grip biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "kettlebell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0525.gif",
+    "id": "0525",
+    "name": "kettlebell bottoms up clean from the hang position",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "kettlebell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0526.gif",
+    "id": "0526",
+    "name": "kettlebell double alternating hang clean",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0575.gif",
+    "id": "0575",
+    "name": "lever bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1615.gif",
+    "id": "1615",
+    "name": "lever hammer grip preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0592.gif",
+    "id": "0592",
+    "name": "lever preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1614.gif",
+    "id": "1614",
+    "name": "lever preacher curl v. 2",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1616.gif",
+    "id": "1616",
+    "name": "lever reverse grip preacher curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "olympic barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0636.gif",
+    "id": "0636",
+    "name": "olympic barbell hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "resistance band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3123.gif",
+    "id": "3123",
+    "name": "resistance band seated biceps curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "smith machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1683.gif",
+    "id": "1683",
+    "name": "smith machine bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "medicine ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0847.gif",
+    "id": "0847",
+    "name": "weighted seated bicep curl  (on stability ball)",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0853.gif",
+    "id": "0853",
+    "name": "weighted standing curl",
+    "target": "biceps"
+  }
+]

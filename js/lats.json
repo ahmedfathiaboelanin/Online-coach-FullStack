@@ -1,0 +1,650 @@
+[
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0007.gif",
+    "id": "0007",
+    "name": "alternate lateral pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3293.gif",
+    "id": "3293",
+    "name": "archer pull up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0015.gif",
+    "id": "0015",
+    "name": "assisted parallel close grip pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0017.gif",
+    "id": "0017",
+    "name": "assisted pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1431.gif",
+    "id": "1431",
+    "name": "assisted standing chin-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1432.gif",
+    "id": "1432",
+    "name": "assisted standing pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1405.gif",
+    "id": "1405",
+    "name": "back pec stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0970.gif",
+    "id": "0970",
+    "name": "band assisted pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0974.gif",
+    "id": "0974",
+    "name": "band close-grip pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3117.gif",
+    "id": "3117",
+    "name": "band fixed back close grip pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3116.gif",
+    "id": "3116",
+    "name": "band fixed back underhand pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0983.gif",
+    "id": "0983",
+    "name": "band kneeling one arm pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1013.gif",
+    "id": "1013",
+    "name": "band underhand pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1316.gif",
+    "id": "1316",
+    "name": "barbell bent arm pullover",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0034.gif",
+    "id": "0034",
+    "name": "barbell decline bent arm pullover",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0037.gif",
+    "id": "0037",
+    "name": "barbell decline wide-grip pullover",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0073.gif",
+    "id": "0073",
+    "name": "barbell pullover",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0022.gif",
+    "id": "0022",
+    "name": "barbell pullover to press",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3019.gif",
+    "id": "3019",
+    "name": "bench pull-ups",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0150.gif",
+    "id": "0150",
+    "name": "cable bar lateral pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0153.gif",
+    "id": "0153",
+    "name": "cable cross-over lateral pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0172.gif",
+    "id": "0172",
+    "name": "cable incline pushdown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2330.gif",
+    "id": "2330",
+    "name": "cable lat pulldown full range of motion",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0177.gif",
+    "id": "0177",
+    "name": "cable lateral pulldown (with rope attachment)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2616.gif",
+    "id": "2616",
+    "name": "cable lateral pulldown with v-bar",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0184.gif",
+    "id": "0184",
+    "name": "cable lying extension pullover (with rope attachment)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3563.gif",
+    "id": "3563",
+    "name": "cable one arm pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0198.gif",
+    "id": "0198",
+    "name": "cable pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0197.gif",
+    "id": "0197",
+    "name": "cable pulldown (pro lat bar)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0199.gif",
+    "id": "0199",
+    "name": "cable pushdown (straight arm) v. 2",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0205.gif",
+    "id": "0205",
+    "name": "cable rear pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0213.gif",
+    "id": "0213",
+    "name": "cable seated high row (v-bar)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1717.gif",
+    "id": "1717",
+    "name": "cable squat row (with rope attachment)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0238.gif",
+    "id": "0238",
+    "name": "cable straight arm pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0237.gif",
+    "id": "0237",
+    "name": "cable straight arm pulldown (with rope)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2464.gif",
+    "id": "2464",
+    "name": "cable thibaudeau kayak row",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0244.gif",
+    "id": "0244",
+    "name": "cable twisting pull",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0245.gif",
+    "id": "0245",
+    "name": "cable underhand pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1325.gif",
+    "id": "1325",
+    "name": "cable wide grip rear pulldown behind neck",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1326.gif",
+    "id": "1326",
+    "name": "chin-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1327.gif",
+    "id": "1327",
+    "name": "close grip chin-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1332.gif",
+    "id": "1332",
+    "name": "exercise ball alternating arm ups",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1339.gif",
+    "id": "1339",
+    "name": "exercise ball lat stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1341.gif",
+    "id": "1341",
+    "name": "exercise ball lower back stretch (pyramid)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1342.gif",
+    "id": "1342",
+    "name": "exercise ball lying side lat stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3010.gif",
+    "id": "3010",
+    "name": "ez bar lying bent arms pullover",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0466.gif",
+    "id": "0466",
+    "name": "gironda sternum chin",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0558.gif",
+    "id": "0558",
+    "name": "kipping muscle up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1346.gif",
+    "id": "1346",
+    "name": "kneeling lat stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3418.gif",
+    "id": "3418",
+    "name": "l-pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0572.gif",
+    "id": "0572",
+    "name": "lever assisted chin-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0579.gif",
+    "id": "0579",
+    "name": "lever front pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1347.gif",
+    "id": "1347",
+    "name": "lever one arm lateral wide pulldown ",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2285.gif",
+    "id": "2285",
+    "name": "lever pullover ",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2736.gif",
+    "id": "2736",
+    "name": "lever reverse grip lateral pulldown ",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "medicine ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1353.gif",
+    "id": "1353",
+    "name": "medicine ball catch and overhead throw",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0627.gif",
+    "id": "0627",
+    "name": "mixed grip chin-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0631.gif",
+    "id": "0631",
+    "name": "muscle up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1401.gif",
+    "id": "1401",
+    "name": "muscle-up (on vertical bar)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1355.gif",
+    "id": "1355",
+    "name": "one arm against wall",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0638.gif",
+    "id": "0638",
+    "name": "one arm chin-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0651.gif",
+    "id": "0651",
+    "name": "pull up (neutral grip)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0652.gif",
+    "id": "0652",
+    "name": "pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0670.gif",
+    "id": "0670",
+    "name": "rear pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0673.gif",
+    "id": "0673",
+    "name": "reverse grip machine lat pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0674.gif",
+    "id": "0674",
+    "name": "reverse grip pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0678.gif",
+    "id": "0678",
+    "name": "rocky pull-up pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "roller",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2207.gif",
+    "id": "2207",
+    "name": "roller side lat stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0690.gif",
+    "id": "0690",
+    "name": "seated lower back stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1763.gif",
+    "id": "1763",
+    "name": "shoulder grip pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1358.gif",
+    "id": "1358",
+    "name": "side lying floor stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0720.gif",
+    "id": "0720",
+    "name": "side-to-side chin",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0794.gif",
+    "id": "0794",
+    "name": "standing lateral stretch",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0818.gif",
+    "id": "0818",
+    "name": "twin handle parallel grip lat pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2987.gif",
+    "id": "2987",
+    "name": "weighted close grip chin-up on dip cage",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3286.gif",
+    "id": "3286",
+    "name": "weighted muscle up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3312.gif",
+    "id": "3312",
+    "name": "weighted muscle up (on bar)",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3290.gif",
+    "id": "3290",
+    "name": "weighted one hand pull up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0841.gif",
+    "id": "0841",
+    "name": "weighted pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1429.gif",
+    "id": "1429",
+    "name": "wide grip pull-up",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1367.gif",
+    "id": "1367",
+    "name": "wide grip rear pull-up",
+    "target": "lats"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1314.gif",
+    "id": "1314",
+    "name": "back extension on exercise ball",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1010.gif",
+    "id": "1010",
+    "name": "band straight leg deadlift",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1333.gif",
+    "id": "1333",
+    "name": "exercise ball back extension with arms extended",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1334.gif",
+    "id": "1334",
+    "name": "exercise ball back extension with hands behind head",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1335.gif",
+    "id": "1335",
+    "name": "exercise ball back extension with knees off ground",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1336.gif",
+    "id": "1336",
+    "name": "exercise ball back extension with rotation",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1338.gif",
+    "id": "1338",
+    "name": "exercise ball hug",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1343.gif",
+    "id": "1343",
+    "name": "exercise ball prone leg raise",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0489.gif",
+    "id": "0489",
+    "name": "hyperextension",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0488.gif",
+    "id": "0488",
+    "name": "hyperextension (on bench)",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0573.gif",
+    "id": "0573",
+    "name": "lever back extension",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1352.gif",
+    "id": "1352",
+    "name": "lower back curl",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "roller",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2208.gif",
+    "id": "2208",
+    "name": "roller back stretch",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1362.gif",
+    "id": "1362",
+    "name": "sphinx",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1363.gif",
+    "id": "1363",
+    "name": "spine stretch",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1364.gif",
+    "id": "1364",
+    "name": "standing pelvic tilt",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3231.gif",
+    "id": "3231",
+    "name": "two toe touch (male)",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1366.gif",
+    "id": "1366",
+    "name": "upward facing dog",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0835.gif",
+    "id": "0835",
+    "name": "weighted hyperextension (on stability ball)",
+    "target": "spine"
+  }
+]

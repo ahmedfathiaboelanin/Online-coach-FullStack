@@ -1,0 +1,214 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.content{
+    padding: 80px 0px 0px;
+}
+.left{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    gap: 50px;
+}
+.left{
+    justify-content: flex-start;
+}
+.side{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    overflow: hidden;
+    gap: 20px;
+}
+.side1{
+    box-shadow: 0px 3px 10px 0px rgb(155, 152, 152);
+    border: 1px solid #e6e6e6;
+    padding: 20px;
+    border-radius: 5px;
+    background-color:#e6e6e6;
+}
+.side img:nth-child(1){
+    width: 100%;
+    height: 350px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgb(155, 152, 152);
+}
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px 0px !important;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.social a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px !important;
+    display: block;
+}
+.social a:hover{
+    color: white;
+}
+.side h4{
+    margin-top: 20px;
+    width: 100%;
+    direction: rtl;
+    padding: 0px 10px;
+}
+.left .form{
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 5px 10px 0px rgb(155, 152, 152);
+    margin-bottom: 30px;
+}
+.left .form textarea{
+    width: 100% !important;
+    height: 150px;
+    outline: none;
+    padding: 10px;
+    direction: rtl;
+    background-color: #F8F8F8;
+}
+.left .form button{
+    padding: 0px 20px;
+    position: absolute;
+    right: 0;
+    bottom: -35px;
+    border-radius: 0px;
+    height: 35px;
+    width: 100%;
+    font-size: 20px;
+}
+.comment{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 5px !important;
+    background-color: white;
+}
+.comment img{
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+}
+/* -----end side-------------- */
+.article h1,.article h2,.article h3{
+    background-color: #eeee;
+    padding:10px 20px;
+    margin: 10px 0px;
+    width: 100% !important;
+}
+.article h1{
+    font-size: 30px;
+}
+.article h2{
+    font-size: 25px;
+}
+.article div, .article p{
+    font-size: 20px;
+    padding: 0px 10px;
+}
+.article ul,.article ol {
+    padding-right: 20px;
+}
+.article p a{
+    text-align: center;
+}
+.article img{
+    width: 90%;
+    height: 350px;
+    margin: 20px 0px;
+}
+.content .div1{
+    flex-wrap: wrap-reverse;
+    gap: 50px;
+}
+.info{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    margin-top: 30px !important;
+}
+.info p{
+    background-color: #c12;
+    color: white;
+    padding: 10px 15px;
+    direction: ltr;
+}
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px 0px !important;
+    flex-wrap: wrap;
+}
+.social a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    display: block;
+}
+.social a:hover{
+    color: white;
+}
+.latest{
+    align-items: center;
+    justify-content: center;
+    gap: 25px !important;
+    padding: 20px 0px !important;
+}
+.lateArticle a{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0%;
+}
+.lateArticle{
+    overflow: hidden;
+}
+.lateArticle .layer{
+    transition: .5s ease-in-out;
+    position: absolute;
+    top: 20px;
+    left: -100%;
+    width: 100%;
+    height: 180px;
+    background-color: rgba(0, 0, 0, 0.377);
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+.lateArticle:hover .layer{
+    left: 0;
+}
+.latest div{
+    margin: 0 !important;
+    padding: 0% !important;
+}
+.latest img{
+    height: 180px;
+    border-radius: 5px;
+    width: 100% !important;
+    border: 1px solid rgb(0, 0, 0);
+}

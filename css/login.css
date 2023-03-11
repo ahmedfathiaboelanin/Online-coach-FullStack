@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #C12222;
+}
+::-webkit-scrollbar-track{
+    background-color: #EFEFEF;
+}
+:root{
+    --red:#C12222;
+}
+.sec{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 65px;
+}
+.login{
+    display: flex;
+    border: 1px solid var(--red);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px;
+    gap: 10px;
+    border-radius: 10px;
+}
+.login input,.login button{
+    width: 90%;
+    height: 40px;
+    border: 1px solid var(--red);
+    outline: none;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+.login button{
+    background-color: var(--red);
+    color: white;
+}
+.login img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

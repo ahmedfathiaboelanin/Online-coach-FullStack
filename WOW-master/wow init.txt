@@ -1,0 +1,39 @@
+<link rel="stylesheet" href="css/animate.css"> 
+<script src="js/wow.min.js"></script>
+<script>
+new WOW().init();
+</script>
+
+
+
+
+how to use :
+-1- the element should have class wow
+-2- ~~~ ~~~~~~~ ~~~~~~ ~~~~ ~~~~~ (animation name)----> bounceInUp.....
+-3- some advanced optionns {
+      data-wow-duration: Change the animation duration
+      data-wow-delay: Delay before the animation starts
+      data-wow-offset: Distance to start the animation (related to the browser bottom)
+      data-wow-iteration: Number of times the animation is repeated
+}
+-4- customize
+boxClass: Class name that reveals the hidden box when user scrolls.
+
+animateClass: Class name that triggers the CSS animations (’animated’ by default for the animate.css library)
+
+offset: Define the distance between the bottom of browser viewport and the top of hidden box.
+When the user scrolls and reach this distance the hidden box is revealed.
+
+mobile: Turn on/off wow.js on mobile devices.
+
+live: consatantly check for new WOW elements on the page.
+         wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+                    wow.init();
